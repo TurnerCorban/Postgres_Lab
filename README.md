@@ -1,8 +1,6 @@
 # Software Design Construction Lab 3: PostgreSQL
 
-## Howto:
-
-* First, download PostgreSQL at https://www.enterprisedb.com/downloads/postgres-postgresql-downloads and install
+* Download PostgreSQL at https://www.enterprisedb.com/downloads/postgres-postgresql-downloads and install
 * Run pgAdmin 4
 * Create the database
   * In the left sidebar, expand servers
